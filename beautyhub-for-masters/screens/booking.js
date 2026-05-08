@@ -13,7 +13,7 @@ function Booking({ spaceId, onNav }) {
 
   return (
     <main>
-      <section className="container" style={{ padding: '32px 28px 16px' }}>
+      <section className="container" style={{ padding: '48px 28px 16px' }}>
         <Stepper step={step} />
       </section>
 

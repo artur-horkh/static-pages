@@ -6,7 +6,7 @@ function Pricing({ onNav }) {
 
   return (
     <main>
-      <section className="container" style={{ padding: '48px 28px 24px', textAlign: 'center', maxWidth: 760, margin: '0 auto' }}>
+      <section className="container" style={{ padding: '64px 28px 32px', textAlign: 'center', maxWidth: 760, margin: '0 auto' }}>
         <div className="eyebrow" style={{ marginBottom: 12 }}>Тарифы</div>
         <h1 style={{ fontSize: 48, letterSpacing: '-0.03em', marginBottom: 14 }}>
           Платите столько,<br/>сколько работаете.

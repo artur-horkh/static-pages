@@ -27,7 +27,7 @@ function Catalog({ onNav, layout }) {
   return (
     <main>
       {/* Header */}
-      <section className="container" style={{ padding: '32px 28px 24px' }}>
+      <section className="container" style={{ padding: '48px 28px 24px' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: 28 }}>
           <div>
             <div className="eyebrow" style={{ marginBottom: 8 }}>Каталог зон</div>
